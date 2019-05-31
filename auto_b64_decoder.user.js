@@ -3,7 +3,7 @@
 // @namespace Violentmonkey Scripts
 // @match *://forum.snahp.it/*
 // @match *://*/*
-// @version 0.0.0
+// @version 0.0.1
 // @updateURL https://github.com/codexologist/b64decoder/raw/master/auto_b64_decoder.user.js
 // @downloadURL https://github.com/codexologist/b64decoder/raw/master/auto_b64_decoder.user.js
 // ==/UserScript==

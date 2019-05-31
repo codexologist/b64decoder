@@ -4,14 +4,11 @@
 // @match *://forum.snahp.it/*
 // @match *://*/*
 // @version 0.0.0
+// @updateURL https://github.com/codexologist/b64decoder/raw/master/auto_b64_decoder.user.js
+// @downloadURL https://github.com/codexologist/b64decoder/raw/master/auto_b64_decoder.user.js
 // ==/UserScript==
-//
-// @require https://code.jquery.com/jquery-3.4.1.slim.min.js
-// @updateURL https://raw.githubusercontent.com/codexologist/b64decoder/master/auto_b64_decoder.js
-// @downloadURL https://raw.githubusercontent.com/codexologist/b64decoder/master/auto_b64_decoder.js
 
 var SB64D = {};
-
 
 SB64D.re_megaurl = /[^a-z0-9\+\=\:\/\n\.\#\!\-\_\t]/i;
 
